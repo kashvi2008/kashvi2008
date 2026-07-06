@@ -351,3 +351,148 @@ Coming Soon
 </details>
 
 ---
+---
+
+# Hackathons
+
+| Hackathon | Theme |
+|------------|-------|
+| Google AI Hackathon | AI-based Problem Solving |
+| ISRO Bharatiya Antariksh Hackathon | Space Technology & Innovation |
+
+---
+
+# Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Generative_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Frontend_Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ISRO-Geodata_Processing-0B3D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ISRO-Space_Exploration-0B3D91?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Education
+
+**Bachelor of Technology (B.Tech)**
+
+Computer Science & Engineering
+
+2024 – Present
+
+---
+
+# Current Focus
+
+- Building practical AI/ML applications
+- Learning Cybersecurity fundamentals
+- Strengthening Data Structures & Algorithms
+- Exploring Backend Development
+- Contributing to Open Source
+- Participating in Hackathons
+
+--- 
+---
+
+# Current Tech Journey
+
+```yaml
+learning:
+  - Machine Learning
+  - Cybersecurity
+  - Backend Development(Flask)
+
+building:
+  - StudyGenius AI
+  - Emotion Based Music using opencv
+  - CricketLens
+
+exploring:
+  - Open Source
+  - Computer Vison 
+  - Deep Learniner
+
+goal:
+  - AI/ML Internship
+  - Cybersecurity Internship
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kashvi2008&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=kashvi2008&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashvi2008&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashvi2008&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kashvi2008/kashvi2008/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:kashvichanda20@gmail.com">
+<img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kashvi-chanda-735389329">
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kashvi2008">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Learning continuously. Building thoughtfully. Improving every day."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,30:4F46E5,65:7C3AED,100:2563EB"/>
+
+</div>
