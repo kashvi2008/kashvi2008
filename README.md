@@ -206,3 +206,148 @@ Deep Learning
 </table>
 
 ---
+
+# Selected Work
+
+<details open>
+<summary><strong>StudyGenius AI</strong> — AI Study Assistant</summary>
+
+<br>
+
+| Category | Details |
+|----------|---------|
+| Status | Active |
+| Domain | Artificial Intelligence |
+| Stack | Python • Flask • HTML • CSS • JavaScript |
+
+StudyGenius AI is an AI-powered learning platform designed to help students study more efficiently by generating summaries, quizzes, flashcards, and personalized learning resources from educational content.
+
+**Key Features**
+
+- AI-generated summaries
+- Flashcards
+- Quiz generation
+- Study notes
+- Clean web interface
+
+**Repository**
+
+Coming Soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>WeatherCast AI</strong> — Weather & AQI Forecast Platform</summary>
+
+<br>
+
+| Category | Details |
+|----------|---------|
+| Status | In Development |
+| Domain | Artificial Intelligence |
+| Stack | Python • Flask • Machine Learning |
+
+WeatherCast AI provides localized weather forecasts and air quality insights through interactive visualizations and predictive analytics.
+
+**Key Features**
+
+- Live weather information
+- AQI visualization
+- Historical trends
+- Predictive forecasting
+- Health recommendations
+
+**Repository**
+
+Coming Soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>Password Strength Checker</strong></summary>
+
+<br>
+
+| Category | Details |
+|----------|---------|
+| Status | Completed |
+| Domain | Cybersecurity |
+| Stack | Python |
+
+A security-focused Python application that evaluates password strength using multiple validation rules and provides actionable recommendations to improve password security.
+
+**Key Features**
+
+- Password strength analysis
+- Password scoring
+- Security recommendations
+- Pattern detection
+
+**Repository**
+
+https://github.com/kashvi2008/Password-Strength-Checker
+
+</details>
+
+---
+
+<details>
+<summary><strong>Facial Emotion Detection</strong></summary>
+
+<br>
+
+| Category | Details |
+|----------|---------|
+| Status | Planned |
+| Domain | Computer Vision |
+| Stack | Python • OpenCV |
+
+A computer vision project that identifies facial expressions in real time using OpenCV and maps them to corresponding human emotions.
+
+**Planned Features**
+
+- Live emotion detection
+- Expression analysis
+- Performance optimization
+- Emotion analytics
+- Emotion-based music recommendation
+
+**Repository**
+
+Coming Soon
+
+</details>
+
+---
+
+<details>
+<summary><strong>CricketLens</strong></summary>
+
+<br>
+
+| Category | Details |
+|----------|---------|
+| Status | Active |
+| Domain | Data Analytics |
+| Stack | Python • Flask • HTML • CSS |
+
+CricketLens is a web application that delivers player statistics, season analysis, and performance insights through an intuitive and interactive interface.
+
+**Key Features**
+
+- Player statistics
+- Season analysis
+- Interactive dashboards
+- Performance insights
+
+**Repository**
+
+Coming Soon
+
+</details>
+
+---
