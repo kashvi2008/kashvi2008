@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,30:7C3AED,60:8B5CF6,100:2563EB&text=Kashvi%20Chanda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Enthusiast%20%Cybersecurity%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,30:7C3AED,60:8B5CF6,100:2563EB&text=Kashvi%20Chanda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%7C%20Cybersecurity%20Learner&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;Artificial+Intelligence+Engineer;Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor;Building+Scalable+AI+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;AI%2FML+Enthusiast;Cybersecurity+Learner;Hackathon+Participant;Open+Source+Learner;Always+Learning+Something+New"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML-Learner-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cybersecurity-Learner-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Learner-4338CA?style=for-the-badge"/>
 
 <br><br>
 
@@ -36,9 +36,7 @@
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=kashvi2008&style=for-the-badge&color=7C3AED)
-
 ![](https://img.shields.io/github/followers/kashvi2008?style=for-the-badge&color=7C3AED)
-
 ![](https://img.shields.io/github/stars/kashvi2008?style=for-the-badge&color=7C3AED)
 
 </div>
@@ -47,50 +45,42 @@
 
 # About Me
 
-I'm **Kashvi Chanda**, a Computer Science undergraduate passionate about building intelligent software systems that solve real-world problems.
+I'm **Kashvi Chanda**, a Computer Science undergraduate passionate about **Artificial Intelligence, Machine Learning, and Cybersecurity**.
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Cybersecurity**. I enjoy transforming ideas into scalable applications while continuously exploring modern software engineering practices, cloud technologies, and AI-powered product development.
+I enjoy building practical projects, participating in hackathons, and continuously expanding my knowledge through hands-on learning. My focus is on developing real-world solutions while strengthening my problem-solving and programming skills.
 
-Beyond academics, I actively participate in hackathons, contribute to technical communities, and build end-to-end software projects ranging from AI applications to cybersecurity tools. I believe in writing clean, maintainable code and creating products that provide meaningful user experiences.
-
-As I continue my engineering journey, my goal is to become a versatile Software Engineer capable of designing scalable AI systems, secure applications, and impactful technology solutions.
+Currently, I'm exploring AI/ML, cybersecurity, and modern software development through personal projects, technical communities, and continuous learning.
 
 ---
 
 ## Professional Highlights
 
-- AI & Machine Learning Enthusiast
+- AI/ML Enthusiast
 - Cybersecurity Learner
-- Open Source Contributor
-- Active Hackathon Participant
-- Passionate about Building Real-World Software
+- Hackathon Participant
+- Open Source Learner
+- Lifelong Learner
 
 ---
 
 ## Open To
 
-✔ Software Engineering Internships
+✔ AI/ML Internships
 
-✔ AI / Machine Learning Internships
-
-✔ Full Stack Development
-
-✔ Open Source Contributions
-
-✔ Research Collaborations
+✔ Cybersecurity Internships
 
 ✔ Hackathons
 
+✔ Open Source Contributions
+
 ✔ Technical Communities
 
-✔ Freelance Development
+✔ Learning Opportunities
 
 ---
 
 # Tech Philosophy
 
-> *"Build software that is intelligent, scalable, secure, and meaningful."*
-
-I believe technology should solve problems—not create them. Every project I build focuses on clean architecture, user experience, performance, and continuous learning.
+> *"Stay curious, keep learning, and build technology that creates real impact."*
 
 ---
