@@ -68,3 +68,114 @@ Currently focused on developing AI-powered applications while strengthening my u
 ---
 
 > *"Learning continuously. Building thoughtfully. Improving every day."*
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Cybersecurity
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,firebase,mysql" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,django,docker,gcp" />
+</p>
+
+</div>
+
+---
+
+# Areas of Interest
+
+<div align="center">
+
+| Domain | Focus |
+|:--------|:------|
+| Artificial Intelligence | Building practical AI applications using Python |
+| Machine Learning | Learning supervised, unsupervised and deep learning concepts |
+| Cybersecurity | Password security, secure coding, authentication and defensive security |
+| Computer Vision | OpenCV-based projects and real-time image processing |
+| Software Development | Designing clean, maintainable and scalable applications |
+| Open Source | Learning through collaboration and community projects |
+
+</div>
+
+---
+
+# Currently Learning
+
+<div align="center">
+
+| Technology | Status |
+|:-----------|:------:|
+| Machine Learning | ████████░░ |
+| Deep Learning | ██████░░░░ |
+| Cybersecurity | ███████░░░ |
+| Computer Vision | ███████░░░ |
+| Data Structures & Algorithms | ████████░░ |
+| Backend Development | ██████░░░░ |
+
+</div>
+
+---
+
+# Development Workflow
+
+```text
+Idea
+  │
+  ▼
+Research
+  │
+  ▼
+Planning
+  │
+  ▼
+Development
+  │
+  ▼
+Testing
+  │
+  ▼
+Optimization
+  │
+  ▼
+Deployment
+```
+
+---
+
+# Engineering Principles
+
+- Build before consuming tutorials.
+- Learn by solving real-world problems.
+- Write clean and maintainable code.
+- Focus on continuous improvement.
+- Prioritize security and performance.
+- Document projects clearly.
+- Keep learning through experimentation.
+
+---
