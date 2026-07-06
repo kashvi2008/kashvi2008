@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,30:7C3AED,60:8B5CF6,100:2563EB&text=Kashvi%20Chanda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,30:7C3AED,60:8B5CF6,100:2563EB&text=Kashvi%20Chanda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Enthusiast%20%Cybersecurity%20Enthusiast&descAlignY=58"/>
 
 <br>
 
@@ -8,9 +8,8 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/KIIT-University-5B21B6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Engineer-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-Learner-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cybersecurity-Learner-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-4338CA?style=for-the-badge"/>
 
@@ -50,7 +49,7 @@
 
 I'm **Kashvi Chanda**, a Computer Science undergraduate passionate about building intelligent software systems that solve real-world problems.
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Cybersecurity, and Full Stack Engineering**. I enjoy transforming ideas into scalable applications while continuously exploring modern software engineering practices, cloud technologies, and AI-powered product development.
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Cybersecurity**. I enjoy transforming ideas into scalable applications while continuously exploring modern software engineering practices, cloud technologies, and AI-powered product development.
 
 Beyond academics, I actively participate in hackathons, contribute to technical communities, and build end-to-end software projects ranging from AI applications to cybersecurity tools. I believe in writing clean, maintainable code and creating products that provide meaningful user experiences.
 
@@ -61,12 +60,9 @@ As I continue my engineering journey, my goal is to become a versatile Software 
 ## Professional Highlights
 
 - AI & Machine Learning Enthusiast
-- Full Stack Application Developer
 - Cybersecurity Learner
 - Open Source Contributor
-- Product Engineering Mindset
 - Active Hackathon Participant
-- R&D Lead at CPC KIIT
 - Passionate about Building Real-World Software
 
 ---
