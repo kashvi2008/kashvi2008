@@ -70,6 +70,7 @@ Currently focused on developing AI-powered applications while strengthening my u
 > *"Learning continuously. Building thoughtfully. Improving every day."*
 ---
 ---
+---
 
 # Tech Stack
 
@@ -77,49 +78,131 @@ Currently focused on developing AI-powered applications while strengthening my u
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js&perline=6"/>
 
-### Operating Systems
+<br><br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux" />
-</p>
+### Operating System
+
+<img src="https://skillicons.dev/icons?i=linux"/>
 
 </div>
 
 ---
 
-# Areas of Interest
+# Interests
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-| Domain | Focus |
-|:--------|:------|
-| Artificial Intelligence | Building practical AI applications using Python |
-| Machine Learning | Exploring supervised, unsupervised, and deep learning techniques |
-| Cybersecurity | Secure coding, authentication, and password security |
-| Computer Vision | Real-time image processing using OpenCV |
-| Open Source | Learning through collaboration and community projects |
+### Artificial Intelligence
 
-</div>
+Building intelligent systems using modern AI techniques.
+
+</td>
+
+<td width="33%" align="center">
+
+### Machine Learning
+
+Exploring models, data, and real-world applications.
+
+</td>
+
+<td width="33%" align="center">
+
+### Cybersecurity
+
+Learning secure software development and defensive security.
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Currently Learning
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-| Technology | Progress |
-|:-----------|:--------:|
-| Machine Learning | ████████░░ |
-| Cybersecurity | ███████░░░ |
-| Data Structures & Algorithms | ███████░░░ |
-| Backend Development | ██████░░░░ |
-| Computer Vision | █████░░░░░ |
-| Deep Learning | ████░░░░░░ |
+Machine Learning
 
-</div>
+</td>
+<td width="70%">
+
+████████░░
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Cybersecurity
+
+</td>
+<td>
+
+███████░░░
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Data Structures & Algorithms
+
+</td>
+<td>
+
+███████░░░
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Backend Development
+
+</td>
+<td>
+
+██████░░░░
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Computer Vision
+
+</td>
+<td>
+
+█████░░░░░
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+Deep Learning
+
+</td>
+<td>
+
+███░░░░░░░
+
+</td>
+</tr>
+
+</table>
 
 ---
